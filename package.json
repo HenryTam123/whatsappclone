@@ -2,7 +2,7 @@
   "name": "wtsclone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://henrytam123.github.io/whatsappclone/",
+  "homepage": "http://HenryTam123.github.io/whatsappclone",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
