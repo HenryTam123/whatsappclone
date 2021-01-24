@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fa137b0.chunk.css",
-    "main.js": "/static/js/main.d21b7e7f.chunk.js",
-    "main.js.map": "/static/js/main.d21b7e7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.21e93d74.js",
-    "runtime-main.js.map": "/static/js/runtime-main.21e93d74.js.map",
-    "static/js/2.a72c6976.chunk.js": "/static/js/2.a72c6976.chunk.js",
-    "static/js/2.a72c6976.chunk.js.map": "/static/js/2.a72c6976.chunk.js.map",
-    "static/js/3.f4bb9771.chunk.js": "/static/js/3.f4bb9771.chunk.js",
-    "static/js/3.f4bb9771.chunk.js.map": "/static/js/3.f4bb9771.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9fa137b0.chunk.css.map": "/static/css/main.9fa137b0.chunk.css.map",
-    "static/js/2.a72c6976.chunk.js.LICENSE.txt": "/static/js/2.a72c6976.chunk.js.LICENSE.txt",
-    "static/media/hug.6441d4e7.jpg": "/static/media/hug.6441d4e7.jpg"
+    "main.css": "/whatsappclone/static/css/main.9fa137b0.chunk.css",
+    "main.js": "/whatsappclone/static/js/main.d21b7e7f.chunk.js",
+    "main.js.map": "/whatsappclone/static/js/main.d21b7e7f.chunk.js.map",
+    "runtime-main.js": "/whatsappclone/static/js/runtime-main.e7c149eb.js",
+    "runtime-main.js.map": "/whatsappclone/static/js/runtime-main.e7c149eb.js.map",
+    "static/js/2.a72c6976.chunk.js": "/whatsappclone/static/js/2.a72c6976.chunk.js",
+    "static/js/2.a72c6976.chunk.js.map": "/whatsappclone/static/js/2.a72c6976.chunk.js.map",
+    "static/js/3.f4bb9771.chunk.js": "/whatsappclone/static/js/3.f4bb9771.chunk.js",
+    "static/js/3.f4bb9771.chunk.js.map": "/whatsappclone/static/js/3.f4bb9771.chunk.js.map",
+    "index.html": "/whatsappclone/index.html",
+    "static/css/main.9fa137b0.chunk.css.map": "/whatsappclone/static/css/main.9fa137b0.chunk.css.map",
+    "static/js/2.a72c6976.chunk.js.LICENSE.txt": "/whatsappclone/static/js/2.a72c6976.chunk.js.LICENSE.txt",
+    "static/media/hug.6441d4e7.jpg": "/whatsappclone/static/media/hug.6441d4e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.21e93d74.js",
+    "static/js/runtime-main.e7c149eb.js",
     "static/js/2.a72c6976.chunk.js",
     "static/css/main.9fa137b0.chunk.css",
     "static/js/main.d21b7e7f.chunk.js"
